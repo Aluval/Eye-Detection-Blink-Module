@@ -2,7 +2,7 @@
 
 ![Python](https://img.shields.io/badge/Python-3.x-blue)
 ![OpenCV](https://img.shields.io/badge/OpenCV-Computer%20Vision-green)
-![License](https://img.shields.io/badge/License-Apache%202.0-orange)
+![License: MIT](https://img.shields.io/badge/License-MIT-yellow.svg)
 ![Status](https://img.shields.io/badge/Project-Educational-brightgreen)
 
 A real-time **Eye Blink Detection System** built using **Python and OpenCV** that detects human faces and eyes from a webcam stream and analyzes blinking using a simplified **Eye Aspect Ratio (EAR)** technique.
@@ -122,7 +122,7 @@ Eye-Detection-Blink-Module
 ### 1️⃣ Clone Repository
 
 ```bash
-git clone https://github.com/yourusername/eye-detection-blink-module.git
+git clone https://github.com/aluval/eye-detection-blink-module.git
 cd eye-detection-blink-module
 ```
 
