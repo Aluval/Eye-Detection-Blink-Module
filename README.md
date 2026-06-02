@@ -1,4 +1,4 @@
-# Eye Detection Blink Module
+# Eye Detection Blink Module - BlinkVerify AI
 
 ![Python](https://img.shields.io/badge/Python-3.x-blue)
 ![OpenCV](https://img.shields.io/badge/OpenCV-Computer%20Vision-green)
